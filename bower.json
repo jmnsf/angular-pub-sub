@@ -1,0 +1,29 @@
+{
+  "name": "angular-pub-sub",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jmnsf/angular-pub-sub",
+  "authors": [
+    "jmnsf <jmnsferreira@gmail.com>"
+  ],
+  "description": "An Angular module that implements a Publish Subscribe service with support for message history.",
+  "main": "./dist/angular-pub-sub.js",
+  "keywords": [
+    "AngularJS",
+    "publish",
+    "subscribe",
+    "pubsub"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js"
+  ],
+  "devDependencies": {
+    "angularjs": "~1.3.15",
+    "angular-mocks": "~1.3.15"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "angular-pub-sub",
+  "version": "1.0.0",
+  "description": "An Angular module that implements a Publish Subscribe service with support for message history.",
+  "homepage": "https://github.com/jmnsf/angular-pub-sub",
+  "main": "./dist/angular-pub-sub.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmnsf/angular-pub-sub.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "publish",
+    "subscribe",
+    "pubsub"
+  ],
+  "author": "jmnsf <jmnsferreira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmnsf/angular-pub-sub/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-karma": "latest",
+    "karma": "latest",
+    "karma-jasmine": "latest",
+    "karma-coverage": "latest",
+    "karma-phantomjs-launcher": "latest",
+    "load-grunt-tasks": "~0.3.0"
+  }
+}
