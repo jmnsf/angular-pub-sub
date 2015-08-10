@@ -1,6 +1,6 @@
 {
   "name": "angular-pub-sub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular module that implements a Publish Subscribe service with support for message history.",
   "homepage": "https://github.com/jmnsf/angular-pub-sub",
   "main": "./dist/angular-pub-sub.js",
