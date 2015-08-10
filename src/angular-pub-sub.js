@@ -192,7 +192,7 @@ angularPubSub.provider('pubSub', function () {
          * @param  {String}   channel     The channel being subscribed to's name.
          * @param  {Function} callback    The callback to run upon any publish.
          * @param  {Boolean}  playback    Whether to playback previous messages.
-         * @param  {Boolean}  maxPlayback Max number of messages to playback.
+         * @param  {Integer}  maxPlayback Max number of messages to playback.
          * @return {Function}             A callback for unsubscribing from the
          *                                  channel.
          */
