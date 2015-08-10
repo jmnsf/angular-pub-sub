@@ -13,14 +13,16 @@
   },
   "keywords": [
     "AngularJS",
+    "angular",
     "publish",
     "subscribe",
     "pubsub"
   ],
-  "author": "jmnsf <jmnsferreira@gmail.com>",
+  "author": "jmnsf <jmnsferreira@gmail.com> (jmnsf.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmnsf/angular-pub-sub/issues"
+    "url": "https://github.com/jmnsf/angular-pub-sub/issues",
+    "email": "jmnsferreira@gmail.com"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
