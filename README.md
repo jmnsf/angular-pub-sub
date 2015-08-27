@@ -2,7 +2,7 @@
 
 # angular-pub-sub
 
-Straightforward Publish-Subscribe module for AngularJS. Supports messages with multiple parameters and supports keeping a message history and rewinding upon subscription.
+Straightforward Publish-Subscribe module for AngularJS written for [Liquid](https://onliquid.com). Supports messages with multiple parameters and supports keeping a message history and rewinding upon subscription.
 
 ## Documentation
 
