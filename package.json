@@ -25,18 +25,19 @@
     "email": "jmnsferreira@gmail.com"
   },
   "devDependencies": {
+    "bower": "*",
     "grunt": "~0.4.5",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-concat": "*",
-    "grunt-contrib-watch": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-coveralls": "^1.0.0",
     "grunt-karma": "latest",
     "karma": "latest",
-    "karma-jasmine": "latest",
     "karma-coverage": "latest",
+    "karma-jasmine": "latest",
     "karma-phantomjs-launcher": "latest",
-    "load-grunt-tasks": "~0.3.0",
-    "bower": "*"
+    "load-grunt-tasks": "~0.3.0"
   }
 }
